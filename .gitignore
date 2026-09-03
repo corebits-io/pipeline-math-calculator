@@ -1,0 +1,18 @@
+# Excel / LibreOffice lock and temp files
+~$*.xlsx
+~$*.xls
+.~lock.*#
+*.tmp
+
+# Your own filled-in copy, if you keep it in here. The shipped template stays
+# tracked; anything with your firm's real deal targets and conversion rates in
+# it does not belong in a public repo.
+*-my-numbers.xlsx
+*-filled.xlsx
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/

@@ -126,22 +126,6 @@ over too.
 
 ---
 
-## The free 12-agent system that fills the gap
-
-The calculator tells you the number. Closing it is an origination problem.
-
-**[corebits-io/pe-deal-origination](https://github.com/corebits-io/pe-deal-origination)**
-— twelve Claude Code agents that turn a PE buy box into a pipeline of off-market
-companies: map the market, find the companies inside it, establish who really
-owns them, size them, score them PRIORITY / WATCH / PASS, read the succession
-signals, and get you a verified route to the person who can actually sell.
-
-It includes a `pipeline-monitor` agent that runs exactly this calculation against
-a live target list, plus the sensitivity read and coverage against the market you
-mapped.
-
----
-
 ## Important
 
 This is not investment, legal, or tax advice. It is arithmetic, and it is only as

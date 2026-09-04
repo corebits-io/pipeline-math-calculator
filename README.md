@@ -140,13 +140,6 @@ It includes a `pipeline-monitor` agent that runs exactly this calculation agains
 a live target list, plus the sensitivity read and coverage against the market you
 mapped.
 
-Also free, also MIT:
-
-- **[deal-origination-playbook](https://github.com/corebits-io/deal-origination-playbook)** — origination only, stops before outreach, plus the method written out
-- **[deal-origination-system](https://github.com/corebits-io/deal-origination-system)** — the outreach and pipeline half
-- **[fundraising-team](https://github.com/corebits-io/fundraising-team)** — the sell-side equivalent, for raising rather than deploying
-- **[99-european-family-offices](https://github.com/corebits-io/99-european-family-offices)** — 99 named family office decision-makers across 23 European countries
-
 ---
 
 ## Important
